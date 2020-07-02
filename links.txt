@@ -1,0 +1,6 @@
+https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
+https://www.kaggle.com/xhlulu/densenet-keras
+
+DenseNet
+
+https://towardsdatascience.com/paper-review-densenet-densely-connected-convolutional-networks-acf9065dfefb
